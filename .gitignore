@@ -1,0 +1,9 @@
+# Ignore compiled binaries
+*.exe
+
+# Optional: Ignore other clutter
+*.o
+*.out
+.vscode/
+*.log
+*.class
